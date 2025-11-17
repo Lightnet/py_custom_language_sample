@@ -13,6 +13,12 @@
 # Information:
   This is just a sample test. By using the python and library from llvmlite, lark and other libs. To create custom compiler program language.
 
+# Features:
+- [x] simple math
+- [ ] function
+- [ ] variable
+- [ ] ...
+
 # vscode:
 
 Open setting and search for terminal.integrated.profiles.windows to edit.
